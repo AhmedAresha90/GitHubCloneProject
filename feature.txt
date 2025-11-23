@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  "This is a new feature."
+=======
+"This is a new feature."
+>>>>>>> 87e34a050f812dcd01d4dbfd12b75bd41e4cf236
